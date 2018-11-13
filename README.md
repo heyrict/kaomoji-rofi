@@ -1,12 +1,13 @@
 # Kaomoji Rofi
 
-Rofi script for typing kaomojis.
+Rofi script for typing kaomojis. Types kaomojis and copies them into your clipboard.
 ![Kaomoji Rofi Preview](ss.png)
 
 ## Requirements
 
 + `rofi`
 + `xdotool`
++ `xclip`
 
 ## Installation
 
